@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/quiz-app-react-typescript/static/js/main.f6219fe6.chunk.js",
-    "main.js.map": "/quiz-app-react-typescript/static/js/main.f6219fe6.chunk.js.map",
-    "runtime-main.js": "/quiz-app-react-typescript/static/js/runtime-main.7cac74d0.js",
-    "runtime-main.js.map": "/quiz-app-react-typescript/static/js/runtime-main.7cac74d0.js.map",
-    "static/js/2.dab58dac.chunk.js": "/quiz-app-react-typescript/static/js/2.dab58dac.chunk.js",
-    "static/js/2.dab58dac.chunk.js.map": "/quiz-app-react-typescript/static/js/2.dab58dac.chunk.js.map",
-    "index.html": "/quiz-app-react-typescript/index.html",
-    "static/js/2.dab58dac.chunk.js.LICENSE.txt": "/quiz-app-react-typescript/static/js/2.dab58dac.chunk.js.LICENSE.txt",
-    "static/media/fezbot2000-5brvJbR1Pn8-unsplash.cbd91867.jpg": "/quiz-app-react-typescript/static/media/fezbot2000-5brvJbR1Pn8-unsplash.cbd91867.jpg"
+    "main.js": "/static/js/main.f6219fe6.chunk.js",
+    "main.js.map": "/static/js/main.f6219fe6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.895fc0bc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.895fc0bc.js.map",
+    "static/js/2.155a857d.chunk.js": "/static/js/2.155a857d.chunk.js",
+    "static/js/2.155a857d.chunk.js.map": "/static/js/2.155a857d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.155a857d.chunk.js.LICENSE.txt": "/static/js/2.155a857d.chunk.js.LICENSE.txt",
+    "static/media/fezbot2000-5brvJbR1Pn8-unsplash.cbd91867.jpg": "/static/media/fezbot2000-5brvJbR1Pn8-unsplash.cbd91867.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cac74d0.js",
-    "static/js/2.dab58dac.chunk.js",
+    "static/js/runtime-main.895fc0bc.js",
+    "static/js/2.155a857d.chunk.js",
     "static/js/main.f6219fe6.chunk.js"
   ]
 }
